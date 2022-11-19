@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Nutrition Facts</title>
+</head>
+<body>
+<body background="D:\project output\submit background.jpg">
+<p><b>PASTA SALAD </b></p>
+<img align="middle" src="D:\project output\Pasta Salad.jpg"width="250" height="250">
+<ol>
+<li>Calorie-170</li>
+<li>Carbs-31.0gm</li>
+<li>Fat-1.5gm</li>
+<li>Protein-6.0gm</li>
+<li>Fiber-2.0gm</li>
+<li>Calorie-170</li>
+</ol>
+<p><i> Eating the right foods make you makes you feel good from the inside out.</i></p>
+<blink> THANK YOU!!!! VISIT AGAIN!!!! </blink>
+</body>
+</html>
+
+

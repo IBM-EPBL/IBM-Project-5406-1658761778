@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>Nutrition Assistant Application</title>
+
+</head>
+<!-- body -->
+
+<body class="main-layout">
+<body background="D:\project output\submit background.jpg">
+<!-- loader  -->
+
+<!-- end loader -->
+<!-- header -->
+<header>
+<p>Upload Image </p>
+<p>Click on the "Choose File" button to upload a file:</p>
+
+<form action="submit.html">
+  <input type="file" id="myFile" name="filename">
+  <input type="submit">
+  <a href="submit.html">
+</form>
+<h3>Nutrients</h3>
+<p>Nutrients are important to our body. It is very important to know the amount of nutrients that we consume. Exess intake may harm us. Less intake may also damage our body. It is very important to consume them in a limited manner.
+</p>
+</header>
+</body>
+</html>
